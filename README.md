@@ -1,2 +1,7 @@
-# errors
-The errors repo (should be a gist) in which i keep my errors class commonly used across the projects made with TS
+# Errors
+
+The goal is to protect the developer from himself when working in the chaos of startups.
+
+I often implement these since I find myself calling something i've last seen couple days ago. These help me figure out stuff.
+
+More to be added...
